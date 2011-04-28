@@ -12,3 +12,8 @@ Provide an integrated Hello World application demonstrating standalone JPA persi
 * JUnit
 * Hibernate maven plugin
 
+## Setup and run ##
+
+1. mvn clean package -DskipTests
+2. Use target/hibernate3/sql/schema.ddl to create your database schema
+3. mvn test
