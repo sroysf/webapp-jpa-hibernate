@@ -4,8 +4,6 @@
 <HEAD><title>Testing</title></HEAD>
 <BODY>
 
-<H1>Hello world</H1>
-
 <c:out value="Hello world from JSTL"/>
 <br/>
 <img src="images/puppy.jpg"/>
