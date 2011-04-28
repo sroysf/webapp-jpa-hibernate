@@ -28,5 +28,5 @@ Assuming you have setup your postgres database separately and have updated persi
 3. mvn install
 4. mvn -e exec:java -Dexec.mainClass=com.force.samples.util.DataLoadUtil  (adds some data to the database)
 5. mvn tomcat:run
-6. Point browser at [http://localhost:8080/webpp-jsp-jpa-hibernate/listbooks](http://localhost:8080/webpp-jsp-jpa-hibernate/listbooks)
-7. Or try [http://localhost:8080/webpp-jsp-jpa-hibernate/](http://localhost:8080/webpp-jsp-jpa-hibernate/)
+6. Point browser at [http://localhost:8080/webapp-jsp-jpa-hibernate/listbooks](http://localhost:8080/webapp-jsp-jpa-hibernate/listbooks)
+7. Or try [http://localhost:8080/webapp-jsp-jpa-hibernate/](http://localhost:8080/webapp-jsp-jpa-hibernate/)

@@ -2,11 +2,11 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.javacloud.samples</groupId>
-	<artifactId>webpp-jsp-jpa-hibernate</artifactId>
+	<artifactId>webapp-jsp-jpa-hibernate</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>Standalone JPA with Hibernate</name>
-	<description>Demonstrates simple persistence based on Hibernate, using JPA annotations</description>
+	<name>JPA with Hibernate simple web application</name>
+	<description>Demonstrates a simple webapp using jsp, jstl, and persistence provided by JPA+ Hibernate + PostgreSQL</description>
 
 	<properties>
 		<java-version>1.5</java-version>
